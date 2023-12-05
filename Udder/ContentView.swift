@@ -12,6 +12,7 @@ struct ContentView: View {
         VStack {
             Text("Udder")
             Text("Fresh Milk, On demand")
+            Text("Make your order")
         }
         .padding()
     }
