@@ -13,6 +13,7 @@ struct ContentView: View {
             Text("Udder")
             Text("Fresh Milk, On demand")
             Text("Make your order")
+            Text("Validate your order")
         }
         .padding()
     }
